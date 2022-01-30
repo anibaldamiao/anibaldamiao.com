@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://anibaldamiao.com/</loc>
-		<lastmod>2021-11-21T16:12:20+03:00</lastmod>
-	</url>
-	<url>
-		<loc>https://anibaldamiao.medium.com/</loc>
-		<lastmod>2021-12-02T16:12:20+03:00</lastmod>
-	</url>
+<?xml-stylesheet type="text/xsl" href="https://github.com/damiansen/anibaldamiao.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/</loc>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/about-being-humble.html</loc>
+<lastmod>2022-01-30T19:36:46+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/anibaldamiaocom.html</loc>
+<lastmod>2022-01-30T19:41:23+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/arthur-c-clarke-and-wonders-in-tech.html</loc>
+<lastmod>2022-01-30T19:37:31+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/i-wish-that-i-had-the-courage-to-speak-my-mind-and-not-pretend.html</loc>
+<lastmod>2022-01-30T19:36:35+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/is-paper-sustainable-at-all.html</loc>
+<lastmod>2022-01-30T19:40:19+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/mailchimp-just-became-the-goat-for-what-a-bootstrapped-startups-can-be.html</loc>
+<lastmod>2022-01-30T19:43:08+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/on-positivity-and-haters.html</loc>
+<lastmod>2022-01-30T19:39:03+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/page/2/</loc>
+</url>
+<url>
+<loc>https://github.com/damiansen/anibaldamiao.com/rua-anibal-gaspar.html</loc>
+<lastmod>2022-01-30T19:41:59+01:00</lastmod>
+</url>
 </urlset>
