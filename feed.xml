@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>anibaldamiao.com</title>
-    <link href="https://github.com/damiansen/anibaldamiao.com/feed.xml" rel="self" />
-    <link href="https://github.com/damiansen/anibaldamiao.com" />
+    <link href="https://anibaldamiao.com/feed.xml" rel="self" />
+    <link href="https://anibaldamiao.com" />
     <updated>2022-12-27T19:35:00+01:00</updated>
     <author>
         <name>Anibal Damiao</name>
     </author>
-    <id>https://github.com/damiansen/anibaldamiao.com</id>
+    <id>https://anibaldamiao.com</id>
 
     <entry>
         <title>About Being humble</title>
         <author>
             <name>Anibal Damiao</name>
         </author>
-        <link href="https://github.com/damiansen/anibaldamiao.com/about-being-humble.html"/>
-        <id>https://github.com/damiansen/anibaldamiao.com/about-being-humble.html</id>
+        <link href="https://anibaldamiao.com/about-being-humble.html"/>
+        <id>https://anibaldamiao.com/about-being-humble.html</id>
 
         <updated>2022-12-27T19:35:00+01:00</updated>
             <summary>
@@ -151,8 +151,8 @@
         <author>
             <name>Anibal Damiao</name>
         </author>
-        <link href="https://github.com/damiansen/anibaldamiao.com/on-positivity-and-haters.html"/>
-        <id>https://github.com/damiansen/anibaldamiao.com/on-positivity-and-haters.html</id>
+        <link href="https://anibaldamiao.com/on-positivity-and-haters.html"/>
+        <id>https://anibaldamiao.com/on-positivity-and-haters.html</id>
 
         <updated>2022-12-05T19:38:00+01:00</updated>
             <summary>
@@ -175,8 +175,8 @@
         <author>
             <name>Anibal Damiao</name>
         </author>
-        <link href="https://github.com/damiansen/anibaldamiao.com/is-paper-sustainable-at-all.html"/>
-        <id>https://github.com/damiansen/anibaldamiao.com/is-paper-sustainable-at-all.html</id>
+        <link href="https://anibaldamiao.com/is-paper-sustainable-at-all.html"/>
+        <id>https://anibaldamiao.com/is-paper-sustainable-at-all.html</id>
 
         <updated>2022-12-01T19:40:00+01:00</updated>
             <summary>
@@ -240,8 +240,8 @@
         <author>
             <name>Anibal Damiao</name>
         </author>
-        <link href="https://github.com/damiansen/anibaldamiao.com/rua-anibal-gaspar.html"/>
-        <id>https://github.com/damiansen/anibaldamiao.com/rua-anibal-gaspar.html</id>
+        <link href="https://anibaldamiao.com/rua-anibal-gaspar.html"/>
+        <id>https://anibaldamiao.com/rua-anibal-gaspar.html</id>
 
         <updated>2022-11-30T19:41:00+01:00</updated>
             <summary>
@@ -265,8 +265,8 @@
         <author>
             <name>Anibal Damiao</name>
         </author>
-        <link href="https://github.com/damiansen/anibaldamiao.com/anibaldamiaocom.html"/>
-        <id>https://github.com/damiansen/anibaldamiao.com/anibaldamiaocom.html</id>
+        <link href="https://anibaldamiao.com/anibaldamiaocom.html"/>
+        <id>https://anibaldamiao.com/anibaldamiaocom.html</id>
 
         <updated>2022-11-28T19:41:00+01:00</updated>
             <summary>
@@ -288,8 +288,8 @@
         <author>
             <name>Anibal Damiao</name>
         </author>
-        <link href="https://github.com/damiansen/anibaldamiao.com/mailchimp-just-became-the-goat-for-what-a-bootstrapped-startups-can-be.html"/>
-        <id>https://github.com/damiansen/anibaldamiao.com/mailchimp-just-became-the-goat-for-what-a-bootstrapped-startups-can-be.html</id>
+        <link href="https://anibaldamiao.com/mailchimp-just-became-the-goat-for-what-a-bootstrapped-startups-can-be.html"/>
+        <id>https://anibaldamiao.com/mailchimp-just-became-the-goat-for-what-a-bootstrapped-startups-can-be.html</id>
 
         <updated>2022-01-30T19:43:08+01:00</updated>
             <summary>
@@ -317,8 +317,8 @@
         <author>
             <name>Anibal Damiao</name>
         </author>
-        <link href="https://github.com/damiansen/anibaldamiao.com/i-wish-that-i-had-the-courage-to-speak-my-mind-and-not-pretend.html"/>
-        <id>https://github.com/damiansen/anibaldamiao.com/i-wish-that-i-had-the-courage-to-speak-my-mind-and-not-pretend.html</id>
+        <link href="https://anibaldamiao.com/i-wish-that-i-had-the-courage-to-speak-my-mind-and-not-pretend.html"/>
+        <id>https://anibaldamiao.com/i-wish-that-i-had-the-courage-to-speak-my-mind-and-not-pretend.html</id>
 
         <updated>2022-01-30T19:36:35+01:00</updated>
             <summary>
@@ -359,8 +359,8 @@
         <author>
             <name>Anibal Damiao</name>
         </author>
-        <link href="https://github.com/damiansen/anibaldamiao.com/arthur-c-clarke-and-wonders-in-tech.html"/>
-        <id>https://github.com/damiansen/anibaldamiao.com/arthur-c-clarke-and-wonders-in-tech.html</id>
+        <link href="https://anibaldamiao.com/arthur-c-clarke-and-wonders-in-tech.html"/>
+        <id>https://anibaldamiao.com/arthur-c-clarke-and-wonders-in-tech.html</id>
 
         <updated>2022-01-30T19:37:31+01:00</updated>
             <summary>
